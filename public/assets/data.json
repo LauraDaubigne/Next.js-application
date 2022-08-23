@@ -1,0 +1,157 @@
+{
+    "title": "Artpoint",
+    "text": "At ART POINT, we aim to increase the opportunities for digital art to meet its audience, to promote artistic creation and democratize access to art. We represent more than 150 international artists with exceptional know-how and offer you the best of their work.",
+    "artists": [
+        {
+            "id": "1947c490-1d08-49d8-9588-1bcf8c04f88a",
+            "name": "Boris Marinin",
+            "slug": "boris-marinin",
+            "texts": [
+                {
+                    "id": "01dbbcbd-4d7c-4a9a-a4d4-4900bb8fc7e2",
+                    "body": "<p>Boris Marinin est à la fois artiste et curateur. Il est né en 1987 à Moscou, en Russie, et a émigré en Israël en 1997. Sa démarche artistique est principalement influencée par l’auto-apprentissage et l’analyse psychanalytique. Dans son art, Boris Marinin essaie de capturer la sublimité de la nature en utilisant des formes amorphes, qui ne sont pas nécessairement liées au monde matériel que nous connaissons.</p>"
+                }
+            ],
+            "artworks": [
+                {
+                    "id": "f1ade393-6e57-4dc2-9f0f-4fc7ddf29dd5",
+                    "slug": "dekooning-boris-marinin",
+                    "texts": [
+                        {
+                            "id": "8397a6e2-4563-4f67-bbc1-e1db74fd08fb",
+                            "body": "<p><em style=\"color: rgb(32, 33, 34);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.</em></p><p><em>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam, nunc turpis ullamcorper nibh, in tempus sapien eros vitae ligula. Pellentesque rhoncus nunc et augue. Integer id felis. Curabitur aliquet pellentesque diam. Integer quis metus vitae elit lobortis egestas. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi vel erat non mauris convallis vehicula. Nulla et sapien. Integer tortor tellus, aliquam faucibus, convallis id, congue eu, quam. Mauris ullamcorper felis vitae erat. Proin feugiat, augue non elementum posuere, metus purus iaculis lectus, et tristique ligula justo vitae magna.</em></p><p><em style=\"color: rgb(32, 33, 34);\">Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo. Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi. Curabitur iaculis, lorem vel rhoncus faucibus, felis magna fermentum augue, et ultricies lacus lorem varius purus. Curabitur eu amet.</em></p>"
+                        }
+                    ]
+                },
+                {
+                    "id": "87a124ae-5af2-4c44-982a-e77ae20666c0",
+                    "slug": "mona-lisa-boris-marinin",
+                    "texts": [
+                        {
+                            "id": "3c404035-ce35-4dba-aa48-62649be50ae6",
+                            "body": "<p>La Joconde est un portrait en buste peint par l'artiste italien Léonard de Vinci. Considérée comme un chef-d'œuvre archétypal de la Renaissance italienne, elle a été décrite comme \"l'œuvre d'art la plus connue, la plus visitée, la plus écrite, la plus chantée, la plus parodiée du monde\".</p>"
+                        }
+                    ]
+                },
+                {
+                    "id": "b9db0f08-8cb0-4c53-920f-36ca4a9923c1",
+                    "slug": "water-spring.-boris-marinin",
+                    "texts": [
+                        {
+                            "id": "755f7351-4a1d-4baf-93d0-4f2bedb01867",
+                            "body": "<div>hello</div>"
+                        }
+                    ]
+                },
+                {
+                    "id": "ae562edf-abf2-40ea-afa1-2d0245dd2f59",
+                    "slug": "helloo-boris-marinin",
+                    "texts": [
+                        {
+                            "id": "a774bb26-15db-46e9-aea8-7c7ac61799e3",
+                            "body": "<div>SUPER</div>"
+                        }
+                    ]
+                },
+                {
+                    "id": "d9e45c94-1fc1-4428-ae2f-c06675f6c2f3",
+                    "slug": "new-one-boris-marinin",
+                    "texts": [
+                        {
+                            "id": "1554a42e-055e-4cb3-b364-1a86345f58f4",
+                            "body": "<div>Hello </div>"
+                        }
+                    ]
+                },
+                {
+                    "id": "b1162b58-3f14-498f-9207-3b27d40eb9a3",
+                    "slug": "rock-bubble-jc",
+                    "texts": [
+                        {
+                            "id": "fe435ff2-75be-4b0d-8832-15d38a45295b",
+                            "body": "<div>This 3D object was made using Adobe After Effects and Action Script coding. The Texture was created using Physically based rendering and it was inspired by the process of making contemporary video games. <br>“I work with material and texture and create virtual objects. In this series, the object is the main subject matter. This stems from the search for meaning. The circular motion of meaning is created by human perception and continues to a sharing motion of the objects around him. <br><br></div><div><br></div>"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5a949f69-2eea-4cf5-863c-d3839f114b78",
+            "name": "Salvador Dali",
+            "slug": "salvador-dali",
+            "texts": [
+                {
+                    "id": "970af219-9542-45c1-b4bf-c01b6dd3a416",
+                    "body": "<p>Salvador Dalí, né à Figueras le 11 mai 1904, et mort dans la même ville, le 23 janvier 1989, est un peintre, sculpteur, graveur, scénariste et écrivain catalan de nationalité espagnole. Il est considéré comme l'un des principaux représentants du surréalisme, et comme l'un des plus célèbres peintres du XXᵉ siècle.</p>"
+                }
+            ],
+            "artworks": [
+                {
+                    "id": "9ce2f584-caad-4766-86be-0b490a241830",
+                    "slug": "dali2",
+                    "texts": []
+                },
+                {
+                    "id": "a4b56620-45fd-45ea-bf03-796f17056653",
+                    "slug": "dali3",
+                    "texts": []
+                },
+                {
+                    "id": "7ca570f7-69d1-467e-a9b9-5e5b0e343645",
+                    "slu": "dali1",
+                    "texts": [
+                        {
+                            "id": "a0ca9c85-85e1-4354-b7c7-a4d316f2993a",
+                            "body": "<p>test</p>"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8e7a4ac7-ac48-46af-a1d9-5ebf4be3c5e5",
+            "name": "Banksy",
+            "slug": "banksy",
+            "texts": [
+                {
+                    "id": "383c8922-e891-4a27-b1dd-ae57c3ab3ad5",
+                    "body": "<p>Banksy est un artiste de street art qui travaille sous pseudonyme. Son véritable nom et son identité exacte sont inconnus et font toujours l'objet de spéculations</p>"
+                }
+            ],
+            "artworks": []
+        },
+        {
+            "id": "6a60ed90-02ce-42f3-9bed-9a524516e583",
+            "name": "Katsushika Hokusai",
+            "slug": "katsushika-hokusai",
+            "texts": [
+                {
+                    "id": "95b5d2eb-7a51-411a-99cb-9bd9d4616550",
+                    "body": "<p>Katsushika Hokusai (葛飾 北斎, c. 31 October 1760 – 10 May 1849), known simply as Hokusai, was a Japanese artist, ukiyo-e painter and printmaker of the Edo period.</p>"
+                }
+            ],
+            "artworks": [
+                {
+                    "id": "21de9af9-09f1-487c-8a3d-b0ccde977a83",
+                    "slug": "tiger-in-the-snow",
+                    "texts": []
+                },
+                {
+                    "id": "2a89e10a-b643-43e2-9dcf-c169df488b80",
+                    "slug": "the-great-wave-off-kanagawa",
+                    "texts": []
+                },
+                {
+                    "id": "ef975623-dabc-4d16-a48b-6b51d37e74db",
+                    "slug": "fine-wind-clear-morning-",
+                    "texts": []
+                },
+                {
+                    "id": "633a8178-589e-474e-a74c-a0411b501473",
+                    "slug": "dragon-on-the-higashimachi-festival",
+                    "texts": []
+                }
+            ]
+        }
+    ]
+}
