@@ -1,4 +1,3 @@
-
 import Layout from '../../components/Layout';
 import Link from 'next/link';
 import React from 'react';
@@ -6,6 +5,7 @@ import parse from 'html-react-parser';
 const artpointData = require('../../public/assets/data.json');
 
 export default function artist({ artistData }) {
+    
     return (
         <Layout title={artistData.name}>
             <h1 className="my-2 text-2xl">{artistData.name}</h1>
@@ -18,7 +18,6 @@ export default function artist({ artistData }) {
                             <h2>Slug : {artwork.slug ? artwork.slug : 'unknown'}</h2>
                             <h2>Id: {artwork.id ? artwork.id : 'unknown'}</h2>
                             {artwork.texts[0] ? <h2>Text: {parse(artwork.texts[0].body)}</h2> : ''}
-
                         </div>
                     </div>
                 ))}
@@ -35,7 +34,6 @@ export async function getStaticPaths() {
             params: { artist: data.slug.toString() }
         }
     })
-
     return { paths, fallback: false }
 }
 
@@ -44,7 +42,6 @@ export async function getStaticProps(context) {
 
     const slug = context.params.artist;
     const artistData = artpointData.artists.find(value => (value.slug === slug));
-
     return {
         props: { artistData }
     }

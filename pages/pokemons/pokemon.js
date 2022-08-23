@@ -4,6 +4,7 @@ import Link from 'next/link';
 import React from 'react'
 
 export default function pokemon({ poke }) {
+    
     let types = 
         poke.types.map((ty, index) => {
             let sep = (index > 0) ? ', ' : '';
@@ -23,8 +24,7 @@ export default function pokemon({ poke }) {
 
     return (
         <Layout title={poke.name}>
-            <div className="flex flex-row justify-center">
-
+            <div className="flex flex-row flex-wrap justify-center">
                 <img className="w-60" src={poke.image} alt={poke.name} />
                 <div className="content">
                     <p><span className='mr-2 font-bold'>Name : </span> <span className="capitalize">{poke.name}</span></p>
@@ -35,15 +35,12 @@ export default function pokemon({ poke }) {
                     <span className='mr-2 font-bold'>Stats : </span><div className="ml-4">{stats}</div>
                 </div>
             </div>
-
-
-
         </Layout>
-
     )
 }
 
 export async function getServerSideProps({ query }) {
+    
     const id = query.id;
     try {
         const res = await fetch(`https://pokeapi.co/api/v2/pokemon/${id}`);
