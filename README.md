@@ -1,5 +1,6 @@
 Ceci est un projet Next.js. réalisé au cours d'un process de recrutement.
 Ce répertoire propose une application Next.js qui affiche le contenu d'un fichier data.json, ainsi que un moteur de recherche de pokemon utilisant l'api open-source Pokemon.
+La mise en forme de l'application est réalisée à l'aide de Tailwind.css.
 
 
 ----------------
